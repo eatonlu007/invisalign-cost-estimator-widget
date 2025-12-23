@@ -1,4 +1,4 @@
-# ✨ Invisalign Price Estimator Widget
+# ✨ Invisalign Cost Calculator Widget
 
 A fast and accurate cost estimator for clear aligners (Invisalign). Helps patients understand pricing tiers from Express to Comprehensive cases.
 
