@@ -1,15 +1,14 @@
-# ✨ Invisalign Cost Calculator Widget
+# ✨ Open-source Invisalign Cost Estimator Widget
 
-A fast and accurate cost estimator for clear aligners (Invisalign). Helps patients understand pricing tiers from Express to Comprehensive cases.
+A transparent pricing tool to help patients distinguish between Invisalign Express, Lite, and Comprehensive plans.
+## 🚀 Live Demo & Price Guide
+**[Click here to view the Live Calculator](https://fixmysmile.ai/invisalign-cost-calculator)**
+*Audit your Invisalign quote and see if you are being overcharged.*
 
-## 🚀 Live Demo
-Estimate your price here: [fixmysmile.ai/invisalign-cost-calculator](https://fixmysmile.ai/invisalign-cost-calculator)
-
-## 📦 Features
-- **Insurance Integration**: Simulates common PPO dental insurance coverage.
-- **Monthly Payment Calculator**: Shows how low payments can be with 24-60 month financing.
-- **Case Tiers**: Express, Lite, and Comprehensive cost breakdowns.
-- **Lead Optimized**: Includes professional CTA for doctor consultations.
+## Features
+- **Tiered Estimates**: Logic for different Invisalign treatment levels.
+- **Insurance Audit**: Lifetime Max benefit calculation for Ortho.
+- **Mobile Responsive**: Ready for integration into dental blogs or patient portals.
 
 ## 🛠 Embed Code
 ```html
